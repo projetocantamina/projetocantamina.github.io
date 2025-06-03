@@ -28,7 +28,7 @@
     width: 930px;
     height: auto;
     overflow: hidden;
-    border-radius: 4px;
+    border-radius: 30px;
     position: relative;
     margin-top: 10px;
     margin-left: auto;
@@ -249,7 +249,6 @@ h2{
     margin-left: auto; 
     padding: 2rem;
     display: flex;
-    background-color: white;
     padding-bottom: 0px;
     
 }
@@ -257,7 +256,6 @@ h2{
 .turmasPrincipal .menuTurmas {
 
     display: block; 
-    background-color: white;
     margin: 10px;
     box-shadow: 0 3px 10px #0000001a;
     border-radius: 10px;
@@ -318,7 +316,6 @@ h2{
     width: 930px;
     margin-right: auto;
     margin-left: auto;
-    background: #fff;
     padding: 2rem;
     display: flex;
     
@@ -330,7 +327,6 @@ h2{
 .acoes .menuAcoes {
 
     display: block; 
-    background-color: white;
     margin: 10px;
     box-shadow: 0 3px 10px #0000001a;
     border-radius: 10px;
@@ -397,7 +393,6 @@ h2{
     margin-left: 0;
     margin-right: 50%;
     width: 930px;
-    background-color: white;
     
 }
 
@@ -648,13 +643,11 @@ iframe {
     margin-left: auto; 
     padding: 2rem;
     display: flex;
-    background-color: white;
     padding-top: 0px;
 }
 
 .inscricaoBotao {
     display: block; 
-    background-color: white;
     margin-top: 40px;
     margin-bottom: 40px;
     border-radius: 10px;
@@ -670,7 +663,6 @@ iframe {
 
 .inscricaoBotao2 {
     display: block; 
-    background-color: white;
     margin-top: 5px;
     margin-bottom: 40px;
     border-radius: 10px;
@@ -804,7 +796,7 @@ footer {
 body{
     margin: 0px;
     margin-top: 8px;
-    background-color: #ffb515;
+    background-color: #ffc517;
 }
 
 .espaco {
