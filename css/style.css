@@ -10,18 +10,18 @@
 
 }
 .logo img:hover{
-    width:135px;
-    height: 135px;
+    width:138px;
+    height: 138px;
     
 } 
 
 
 .logo img {
     display: block;
-    margin: 0 -300%;
-    padding-top: 10px;
-    width: 125px;
-    height: 125px;
+    margin: 0 -235%;
+    padding-top: 1px;
+    width: 135px;
+    height: 135px;
 } 
 
  .carrosel {
@@ -179,12 +179,10 @@
     width: 100%;
     height: auto;
     object-fit: cover;
-    filter:grayscale(100%)
+    
 }
 
-.imagem:hover{
-    filter:grayscale(0%)
-}
+
 
 
 
@@ -192,24 +190,19 @@
 
     position: absolute;
     text-align: center;
-    font-size:40px;
-    text-shadow:
-    /* -2px -2px 0 black, */
-    /* 2px -2px 0 black, */
-    -2px 2px 0 black,
-    2px 2px 0 black;
+    font-size: 84.5px;
     left: 0px;
     right: 0px;
-    top: 0px;
-    margin-top: 250px;
-    margin-bottom: 0px;
-    font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Cormorant Garamond', serif;
     letter-spacing: 3px;
     margin-left: auto;
     margin-right: auto;
-    bottom: 0px;
-    top: 40px;
+    top: 20px;
     margin-top: 0px;
+    width: 600px;
+    height: 200px;
+    color: #d60083;
+    font-weight: 600;
 
 
 
@@ -217,8 +210,8 @@
 }
 
 .texto2 h1{
-    font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
-    font-weight:300px;
+    font-family: Roxborough CF, Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+    font: weight 300px;
     color:white;
     font-size: 18px;
     position: absolute;
@@ -238,15 +231,6 @@
   
 }
 
-
-
-h2{
-    font-weight:700px;
-    /* color:white */
-    color: white;
-    
-    
-}
 
 
 
@@ -466,6 +450,10 @@ h2{
 
 .conteiner{
     display: flex;
+    width: 1000px;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 
