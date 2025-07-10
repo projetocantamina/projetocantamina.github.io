@@ -49,7 +49,7 @@
     font-size: 1.2em;
     font-weight: bold;
     font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
-    padding-top: 40px;
+    padding-top: 20px;
     padding-bottom: 5px;
 }
 
@@ -246,12 +246,15 @@ h1{
 
 
 .turmasPrincipal {
-    width: 930px;
-    margin-right: auto;
-    margin-left: auto; 
+   width: 1000px;
     padding: 2rem;
     display: flex;
     padding-bottom: 0px;
+    gap: 275px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 385px ;
     
 }
 
@@ -259,12 +262,15 @@ h1{
 
     display: block; 
     margin: 10px;
-    box-shadow: 0 3px 10px #0000001a;
+    box-shadow: -8px 0 0 0 black;
     border-radius: 10px;
-    padding: .5rem;
-    transition: transform .3s;
-    width: 100%;
+    padding: .0.5rem 2rem;
+   transition: transform .3s;
+    width: 150px;
+    height: 150px;
     cursor: pointer;
+    border-radius: 700px;
+    background-color: #d60083;
 
 }
 
@@ -276,31 +282,29 @@ h1{
 .turmasPrincipal .menuTurmas h3 {
 
     display: block;
-    font-size: 1.17em;
+    font-size: 33px;
     margin-block-start: .6em;
     margin-block-end: .6em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    font-weight: bold;
+    font-weight: inherit;
     unicode-bidi: isolate;
     text-align: center;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 70px;
    
 }
 
-.turmasPrincipal .menuTurmas h3:hover{
-    color:#D40C4Bff;
-   
-}
 
 .turmasPrincipal .menuTurmas p {
 
-    display: block;
-     margin-block-start: 1em;
-     margin-block-end: 1em;
-     margin-inline-start: 0px;
-     margin-inline-end: 0px;
-     unicode-bidi: isolate;
-     text-align: center;
+    margin-top: 80px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    width: 230px;
+    margin-left: -40px;
 
 }
 
