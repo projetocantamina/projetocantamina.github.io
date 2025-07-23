@@ -40,7 +40,7 @@ var perfil = document.getElementById("insta")
 
 if (perfil != null) {
     perfil.addEventListener("click",function(){
-        window.location.href = "https://www.instagram.com/projetocantamina/"
+        window.location.href = "https://www.instagram.com/cantaminaprojeto/"
     })
 }
 

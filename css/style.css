@@ -642,6 +642,7 @@ iframe {
     margin-left: auto; 
     padding: 2rem;
     display: flex;
+    gap: 30px;
     
 }
 
@@ -649,32 +650,44 @@ iframe {
     display: block; 
     margin-top: 40px;
     margin-bottom: 40px;
-    border-radius: 10px;
+    border-radius: 25px;
     padding:.5rem;
     transition: transform .3s;
     width: 100%;
     text-align: center;
     margin-right: auto;
     margin-left: auto;
-    border: solid;
     background-color: rgba(255, 255, 255, 0.3);
-   
+    width: 220px;
+    height: 18px;
+    padding-top: 4px;
+    padding-bottom: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
+    
     
    
 }
 
 .inscricaoBotao2 {
-    display: block; 
-    margin-top: 5px;
+     display: block; 
+    margin-top: 40px;
     margin-bottom: 40px;
-    border-radius: 10px;
+    border-radius: 25px;
     padding:.5rem;
     transition: transform .3s;
     width: 100%;
     text-align: center;
     margin-right: auto;
     margin-left: auto;
-    border: solid;
+    background-color: rgba(255, 255, 255, 0.3);
+    width: 220px;
+    height: 18px;
+    padding-top: 4px;
+    padding-bottom: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
+   
 }
 
 .inscricaoBotao2 a {
