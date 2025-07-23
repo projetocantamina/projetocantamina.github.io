@@ -26,7 +26,7 @@
 
  .carrosel {
     width: 930px;
-    height: 385px;
+    height: 366px;
     overflow: hidden;
     border-radius: 30px;
     position: relative;
@@ -236,7 +236,7 @@ h1{
     width: 560px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 598px;
+    margin-top: 550px;
     width: 850px;
     word-spacing: 3px
 
@@ -469,7 +469,7 @@ h1{
 .conteiner{
     display: flex;
     width: 1000px;
-    height: 450px;
+    height: 400px;
     margin-left: auto;
     margin-right: auto;
     
@@ -501,6 +501,7 @@ ul li a {
     color: black;
     text-align: center;
     font-weight: bold;
+    letter-spacing: 2px;
 }
    
  
