@@ -97,7 +97,7 @@ section#historia {
     font-size: 20px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 100;
-    color: #333;
+    color: black;
 
 }
 
@@ -238,6 +238,7 @@ h1{
     margin-right: auto;
     margin-top: 598px;
     width: 850px;
+    word-spacing: 3px
 
 }
 
@@ -262,12 +263,12 @@ h1{
 
     display: block; 
     margin: 10px;
-    box-shadow: -8px 0 0 0 black;
+    box-shadow: -15px 0 0 0 black;
     border-radius: 10px;
-    padding: .0.5rem 2rem;
+    padding: .0.6rem 2rem;
    transition: transform .3s;
-    width: 150px;
-    height: 150px;
+    width: 170px;
+    height: 155px;
     cursor: pointer;
     border-radius: 700px;
     background-color: #d60083;
@@ -282,7 +283,7 @@ h1{
 .turmasPrincipal .menuTurmas h3 {
 
     display: block;
-    font-size: 33px;
+    font-size: 30px;
     margin-block-start: .6em;
     margin-block-end: .6em;
     margin-inline-start: 0px;
@@ -292,14 +293,15 @@ h1{
     text-align: center;
     color: white;
     font-family: 'Montserrat', sans-serif;
-    margin-top: 70px;
+    margin-top: 78px;
+    letter-spacing: 4px;
    
 }
 
 
 .turmasPrincipal .menuTurmas p {
 
-    margin-top: 80px;
+    margin-top: 88px;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     font-size: 20px;
@@ -640,7 +642,7 @@ iframe {
     margin-left: auto; 
     padding: 2rem;
     display: flex;
-    padding-top: 0px;
+    
 }
 
 .inscricaoBotao {
@@ -654,6 +656,9 @@ iframe {
     text-align: center;
     margin-right: auto;
     margin-left: auto;
+    border: solid;
+    background-color: rgba(255, 255, 255, 0.3);
+   
     
    
 }
@@ -669,18 +674,25 @@ iframe {
     text-align: center;
     margin-right: auto;
     margin-left: auto;
+    border: solid;
 }
 
 .inscricaoBotao2 a {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     color: #D40C4Bff;
     text-decoration: none;
+    font-weight: 100;
+    font-size: 22px;
+   
 }
 
 .inscricaoBotao a {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     color: #D40C4Bff;
     text-decoration: none;
+    font-weight: 100;
+    font-size: 22px;
+    
     
 }
 
