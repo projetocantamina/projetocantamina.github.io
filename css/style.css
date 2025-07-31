@@ -266,7 +266,7 @@ h1{
     text-align: center;
     margin-right: auto;
     margin-left: auto;
-    padding-left: 385px ;
+    padding-left: 355px ;
     
 }
 
@@ -337,6 +337,11 @@ h1{
     margin-left: auto;
     padding: 2rem;
     display: flex;
+    gap: 240px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 275px;
     
     
 }
@@ -347,16 +352,13 @@ h1{
 
     display: block; 
     margin: 10px;
-    box-shadow: 0 3px 10px #0000001a;
+     box-shadow: -15px 0 0 0 black;
     border-radius: 10px;
     padding: .5rem;
     cursor: pointer;
     background-color: #d60083;
     width: 200px;
     height: 150px;
-
-    
-
   
 
 }
@@ -365,13 +367,16 @@ h1{
 
 
      display: block;
-    font-size: 1.17em;
+    font-size: 28px;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
     unicode-bidi: isolate;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 4px;
    
     
    
