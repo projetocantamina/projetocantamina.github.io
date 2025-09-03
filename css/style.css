@@ -377,6 +377,7 @@ h1{
     color: white;
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 4px;
+    font-weight: inherit;
    
     
    
@@ -387,19 +388,14 @@ h1{
 .acoes .menuAcoes p {
    
 
-     display: block;
-     margin-block-start: 1em;
-     margin-block-end: 1em;
-     margin-inline-start: 0px;
-     margin-inline-end: 0px;
-     unicode-bidi: isolate;
     padding-bottom: 100px;
     margin-top: 60px;
     margin-bottom: 100px;
-     width: 250px;
+    width: 280px;
     height: 80px;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: bold;
+    margin-left: -45px;
      
     
 }
@@ -409,6 +405,8 @@ h1{
     height: 100px;
     
 }
+
+
 
 .turmas {
 
