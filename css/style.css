@@ -332,16 +332,14 @@ h1{
 
 
 .acoes {
-    width: 930px;
-    margin-right: auto;
-    margin-left: auto;
+    width: 1000px;
     padding: 2rem;
     display: flex;
-    gap: 240px;
+    gap: 275px;
     text-align: center;
     margin-right: auto;
     margin-left: auto;
-    padding-left: 275px;
+    padding-left: 325px;
     
     
 }
@@ -353,12 +351,13 @@ h1{
     display: block; 
     margin: 10px;
      box-shadow: -15px 0 0 0 black;
-    border-radius: 10px;
-    padding: .5rem;
+    border-radius: 700px;
+    padding: .0 .6rem 2rem;
+    transition: transform .3;
     cursor: pointer;
     background-color: #d60083;
-    width: 200px;
-    height: 150px;
+    width: 180px;
+    height: 160px;
   
 
 }
@@ -366,13 +365,12 @@ h1{
 .acoes .menuAcoes h3 {
 
 
-     display: block;
+    display: block;
     font-size: 28px;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
+    margin-block-start: 1.7em;
+    margin-block-end: .6em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    font-weight: bold;
     unicode-bidi: isolate;
     color: white;
     font-family: 'Montserrat', sans-serif;
@@ -392,10 +390,10 @@ h1{
     margin-top: 60px;
     margin-bottom: 100px;
     width: 280px;
-    height: 80px;
     font-size: 20px;
     font-weight: bold;
-    margin-left: -45px;
+    margin-left: -55px;
+    font-family: 'Montserrat', sans-serif;
      
     
 }
